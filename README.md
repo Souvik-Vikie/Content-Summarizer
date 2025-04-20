@@ -24,6 +24,7 @@ This is a user-friendly news research tool designed for effortless information r
 1. Install the required dependencies using pip:
 
 ```bash
+
   pip install -r requirements.txt
 ```
 4.Set up your OpenAI API key by creating a .env file in the project root and adding your API
